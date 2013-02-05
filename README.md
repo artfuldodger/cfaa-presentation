@@ -1,6 +1,6 @@
 # CFAA Presentation
 
-The content in index.html is mine (Jon Evans). Everything else is from reveal.js, a brilliant framework for making presentations in HTML5, so I'm leaving everything intact.
+The content in index.html is mine (Jon Evans). Everything else is from reveal.js, a brilliant framework for making presentations in HTML5, so I'm leaving that content intact below.
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.png?branch=master)](https://travis-ci.org/hakimel/reveal.js)
 
